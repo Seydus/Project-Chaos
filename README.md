@@ -1,2 +1,2 @@
 # Project-Chaos
-The game script I'm currently working on for a game. It contains mostly the mechanics of the game.
+A third-person interaction-dialogue based game about a guy who seeks to find answer and solution to solve their world from chaos.
