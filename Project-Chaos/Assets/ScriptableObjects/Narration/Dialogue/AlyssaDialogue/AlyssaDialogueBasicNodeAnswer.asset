@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 676f063305c2bae4a997b5004ec9d858, type: 3}
+  m_Name: AlyssaDialogueBasicNodeAnswer
+  m_EditorClassIdentifier: 
+  m_DialogueLine: {fileID: 11400000, guid: 44990773607a04d4597e3126887a73b4, type: 2}
+  m_Choices:
+  - m_ChoicePreview: Speed
+    m_ChoiceNode: {fileID: 11400000, guid: ab82987cb81d33f4eb719e5b24be34ae, type: 2}
+  - m_ChoicePreview: Strength
+    m_ChoiceNode: {fileID: 11400000, guid: bdeaed885b169d74bba77610485f7d5b, type: 2}
